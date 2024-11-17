@@ -34,7 +34,7 @@ Kongre Tarihleri: 09-10 KASIM 2024 İSTANBUL
 
 [3. Araştma Yayın Linki](https://www.researchgate.net/profile/Ali-Cetinkaya-3/publication/379958866_UNREAL_ENGINE_ILE_YAPAY_ZEKA_UYGULAMALARI_OYUN_GELISTIRME_VE_SIMULASYON_ARASTIRMALARI/links/662410cef7d3fc287472bd54/UNREAL-ENGINE-ILE-YAPAY-ZEKA-UYGULAMALARI-OYUN-GELISTIRME-VE-SIMUeLASYON-ARASTIRMALARI.pdf) 
 
-[4. Araştma Yayın Linki](
+[4. Araştma Yayın Linki](https://www.instagram.com/p/C4k9DsZN35v/)
 
 Öz:
 
@@ -59,4 +59,4 @@ License:
 
 This work is licensed under a Creative Commons Attribution-Non Commercial 4.0 International License, allowing non-commercial sharing and adaptation with proper attribution.
 
-![alternatif metin](https://github.com/acetinkaya/Tahmin-ve-Ongoru-Islemlerinde-Yapay-Zeka-Uygulamalari/blob/main/bildiri1.png)
+![alternatif metin](https://github.com/acetinkaya/Unreal-Engine-ile-Yapay-Zeka-Uygulamalari/blob/main/2024-11-17_21-33-28.png) 
